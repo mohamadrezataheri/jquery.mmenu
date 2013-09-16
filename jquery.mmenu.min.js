@@ -1,5 +1,5 @@
 /*	
- *	jQuery mmenu 3.2.7
+ *	jQuery mmenu 3.3.0
  *	
  *	Copyright (c) 2013 Fred Heusschen
  *	www.frebsite.nl
